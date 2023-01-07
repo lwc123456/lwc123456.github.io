@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>残念</title>
+  
+  
+  <link href="https://lwc123456.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lwc123456.github.io/"/>
+  <updated>2023-01-06T14:03:06.855Z</updated>
+  <id>https://lwc123456.github.io/</id>
+  
+  <author>
+    <name>万昌</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test1-1</title>
+    <link href="https://lwc123456.github.io/2023/01/06/test1-1/"/>
+    <id>https://lwc123456.github.io/2023/01/06/test1-1/</id>
+    <published>2023-01-06T14:02:42.000Z</published>
+    <updated>2023-01-06T14:03:06.855Z</updated>
+    
+    <content type="html"><![CDATA[<p>主页中的test1-1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;主页中的test1-1&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="test1" scheme="https://lwc123456.github.io/tags/test1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://lwc123456.github.io/2023/01/06/test2/"/>
+    <id>https://lwc123456.github.io/2023/01/06/test2/</id>
+    <published>2023-01-06T14:00:07.000Z</published>
+    <updated>2023-01-06T14:00:49.789Z</updated>
+    
+    <content type="html"><![CDATA[<p> 这是主页的第二个test2</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt; 这是主页的第二个test2&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="test2" scheme="https://lwc123456.github.io/tags/test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://lwc123456.github.io/2022/12/27/test/"/>
+    <id>https://lwc123456.github.io/2022/12/27/test/</id>
+    <published>2022-12-27T11:21:56.000Z</published>
+    <updated>2023-01-06T13:59:52.360Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是主页面中的tags</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是主页面中的tags&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="test1" scheme="https://lwc123456.github.io/tags/test1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一次记录</title>
+    <link href="https://lwc123456.github.io/2022/12/27/hello-world/"/>
+    <id>https://lwc123456.github.io/2022/12/27/hello-world/</id>
+    <published>2022-12-27T11:15:56.553Z</published>
+    <updated>2022-12-27T12:28:40.140Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="-自我介绍"></a>-自我介绍</h2><p>大家好我是万昌，这是我的第一篇博客，后续会进行知识点整理</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;自我介绍&quot;&gt;&lt;a href=&quot;#自我介绍&quot; class=&quot;headerlink&quot; title=&quot;-自我介绍&quot;&gt;&lt;/a&gt;-自我介绍&lt;/h2&gt;&lt;p&gt;大家好我是万昌，这是我的第一篇博客，后续会进行知识点整理&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
